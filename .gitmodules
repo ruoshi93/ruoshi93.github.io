@@ -1,0 +1,3 @@
+[submodule "themes/valaxy"] 
+  path = themes/valaxy 
+  url = git://https://github.com/fluid-dev/hexo-theme-fluid.git/
