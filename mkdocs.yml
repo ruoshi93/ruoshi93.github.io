@@ -1,11 +1,15 @@
 # [Info]
 site_name: 李若诗的个人网站 Ruoshi LI's personal website
+site_url: https://ruoshi93.github.io
 site_author: 李若诗 Ruoshi LI
+site_description: 李若诗的个人网站 Ruoshi LI's personal website
 
 # [Navigtion]
 nav:
   - 博客:
     - blog/index.md
+    - 数据库的使用与实现:
+      - blog/ERDB/Transactions.md
 
 
 # [UI]
@@ -51,7 +55,7 @@ extra:
       name: GitHub | ruoshi93
   alternate:
     - name: English
-      link: /blog/index.md
+      link: /docs/blog/index.md
       lang: en
     - name: Deutsch
       link: /de/
