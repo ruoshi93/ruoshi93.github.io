@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: 李若诗的个人网站 Ruoshi LI's personal website
 site_author: 李若诗 Ruoshi LI
 
 # [UI]
@@ -36,3 +36,16 @@ repo_url: https://ruoshi93.github.io # 右上角点击跳转的链接
 repo_name: ruoshi93.github.io # 右上角的名字
 ## [bottom-left corner]
 copyright: 李若诗 Ruoshi LI CC-BY-4.0 # 左下角的版权声明
+## [bottom-right corner]
+extra:
+  social: # icons
+    - icon: fontawesome/brands/github
+      link: https://github.com/ruoshi93
+      name: GitHub | ruoshi93
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de

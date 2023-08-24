@@ -1,8 +1,7 @@
-# Welcome to MkDocs
+# Hi
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
+## 欢迎来到李若诗的个人网站
+## Welcome to Ruoshi LI's personal website
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
