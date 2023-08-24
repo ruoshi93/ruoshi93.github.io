@@ -1,5 +1,12 @@
+# [Info]
 site_name: 李若诗的个人网站 Ruoshi LI's personal website
 site_author: 李若诗 Ruoshi LI
+
+# [Navigtion]
+nav:
+  - 博客:
+    - blog/index.md
+
 
 # [UI]
 ## [top]
@@ -44,7 +51,7 @@ extra:
       name: GitHub | ruoshi93
   alternate:
     - name: English
-      link: /en/ 
+      link: /blog/index.md
       lang: en
     - name: Deutsch
       link: /de/
