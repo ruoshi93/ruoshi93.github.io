@@ -9,7 +9,8 @@ nav:
   - 博客:
     - blog/index.md
     - 数据库的使用与实现:
-      - blog/ERDB/Transactions.md
+      - blog/ERDB/1_Transactions.md
+      - blog/ERDB/2_Recovery.md
 
 
 # [UI]
@@ -43,7 +44,7 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://ruoshi93.github.io # 右上角点击跳转的链接
+repo_url: https://github.com/ruoshi93/ruoshi93.github.io # 右上角点击跳转的链接
 repo_name: ruoshi93.github.io # 右上角的名字
 ## [bottom-left corner]
 copyright: 李若诗 Ruoshi LI CC-BY-4.0 # 左下角的版权声明
@@ -55,7 +56,7 @@ extra:
       name: GitHub | ruoshi93
   alternate:
     - name: English
-      link: /docs/blog/index.md
+      link: /docs/blog/ERDB
       lang: en
     - name: Deutsch
       link: /de/

@@ -3,14 +3,4 @@
 ## 欢迎来到李若诗的个人网站
 ## Welcome to Ruoshi LI's personal website
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+点击导航栏可以浏览不同类型的文章。
